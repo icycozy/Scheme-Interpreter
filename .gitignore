@@ -1,2 +1,6 @@
-# build
-# myscheme
+build
+myscheme
+
+score/*.txt
+
+score/*.out
