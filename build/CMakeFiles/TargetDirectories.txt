@@ -1,3 +1,0 @@
-/home/xxl/projects/Scheme/build/CMakeFiles/myscheme.dir
-/home/xxl/projects/Scheme/build/CMakeFiles/edit_cache.dir
-/home/xxl/projects/Scheme/build/CMakeFiles/rebuild_cache.dir
